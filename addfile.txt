@@ -1,1 +1,2 @@
-We have limited git knowledge today, but will be experts tomorrow. 
+We have limited git knowledge today, but will be experts tomorrow.
+That will be a useful addition to the good old resume. Source Control systems: ADE, Git! 
